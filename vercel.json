@@ -1,7 +1,6 @@
 {
-    "functions": {
-        "api/**/app.py":{
-            "runtime": "python3.11.3"
-        }
+    "config": {
+      "runtime": "python@3.10"
     }
-}
+  }
+  
