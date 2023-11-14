@@ -1,7 +1,6 @@
 .vercel
 *__pycache__
 venv/
-*.db
 .env
 *.log
 node_modules/
