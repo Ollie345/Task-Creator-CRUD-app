@@ -1,6 +1,7 @@
 .vercel
-requirements.txt
 *__pycache__
 venv/
-vercel.json
 *.db
+.env
+*.log
+node_modules/
