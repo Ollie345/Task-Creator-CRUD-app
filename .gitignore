@@ -1,6 +1,6 @@
 .vercel
-*requirements.txt
-__pycache__
-venv
+requirements.txt
+*__pycache__
+venv/
 vercel.json
-test.db
+*.db
